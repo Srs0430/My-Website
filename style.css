@@ -370,6 +370,13 @@ article .icon {
   height: 90%;
 }
 
+/* INTERESTS SECTION */
+#interests .project-img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
 .project-title {
   margin: 1rem;
   color: black;
